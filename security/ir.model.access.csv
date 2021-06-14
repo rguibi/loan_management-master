@@ -1,0 +1,13 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_loan.aportaciones,loan.aportaciones,model_loan_aportaciones,group_funds_requisition_user,1,1,1,1
+access_loan.cargos,loan.cargos,model_loan_cargos,group_funds_requisition_user,1,1,1,1
+access_loan.management.loan,loan.management.loan,model_loan_management_loan,group_funds_requisition_user,1,1,1,1
+access_loan.management.loan.cuota,loan.management.loan.cuota,model_loan_management_loan_cuota,group_funds_requisition_user,1,1,1,1
+access_loan.management.tipo.documento,loan.management.tipo.documento,model_loan_management_tipo_documento,group_funds_requisition_user,1,1,1,1
+access_loan.management.loan.type,loan.management.loan.type,model_loan_management_loan_type,group_funds_requisition_user,1,1,1,1
+access_loan.management.loan.interes,loan.management.loan.interes,model_loan_management_loan_interes,group_funds_requisition_user,1,1,1,1
+access_loan.management.loan.mora,loan.management.loan.mora,model_loan_management_loan_mora,group_funds_requisition_user,1,1,1,1
+access_loan.pagos,loan.pagos,model_loan_pagos,group_funds_requisition_user,1,1,1,1
+access_loan.pagos.cuotas,loan.pagos.cuotas,model_loan_pagos_cuotas,group_funds_requisition_user,1,1,1,1
+access_loan.wizard.payment.batch,loan.wizard.payment.batch,model_loan_wizard_payment_batch,group_funds_requisition_user,1,1,1,1
+access_loan.wizard.payment.lines.batch,loan.wizard.payment.lines.batch,model_loan_wizard_payment_lines_batch,group_funds_requisition_user,1,1,1,1
